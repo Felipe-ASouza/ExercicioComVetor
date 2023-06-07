@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vetores2", "Vetores2\Vetores2.csproj", "{7CF8E5D5-D162-4D1E-99D2-C9F15CC4792A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CF8E5D5-D162-4D1E-99D2-C9F15CC4792A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF8E5D5-D162-4D1E-99D2-C9F15CC4792A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF8E5D5-D162-4D1E-99D2-C9F15CC4792A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF8E5D5-D162-4D1E-99D2-C9F15CC4792A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

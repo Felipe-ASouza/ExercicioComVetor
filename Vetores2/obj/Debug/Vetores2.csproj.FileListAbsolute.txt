@@ -1,0 +1,7 @@
+C:\Users\Felipe\Desktop\C#\Vetores2\Vetores2\bin\Debug\Vetores2.exe
+C:\Users\Felipe\Desktop\C#\Vetores2\Vetores2\bin\Debug\Vetores2.pdb
+C:\Users\Felipe\Desktop\C#\Vetores2\Vetores2\obj\Debug\Vetores2.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\C#\Vetores2\Vetores2\obj\Debug\Vetores2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Felipe\Desktop\C#\Vetores2\Vetores2\obj\Debug\Vetores2.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\C#\Vetores2\Vetores2\obj\Debug\Vetores2.exe
+C:\Users\Felipe\Desktop\C#\Vetores2\Vetores2\obj\Debug\Vetores2.pdb
